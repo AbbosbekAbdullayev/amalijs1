@@ -5,3 +5,5 @@ let mashinangiz =prompt("mashinangiz qanaqa");
 let ota =prompt("otangizni ismi nma");
 let ona =prompt("onangizni ismi nma");
 let yashashjoy =("yashash joyingiz nomi");
+
+alert(ism + "\n" + famiylangiz + "\n" + yoshingiz  + "\n" +  mashinangiz + "\n" + ota + "\n" + ona + "\n" + yashashjoy)
